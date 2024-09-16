@@ -1,13 +1,6 @@
 -- Database 
 USE [SQL_Portfolio_Projects];
 
-/*
-Project name:
- 
-Dataset: (https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
-
-The dataset contains 56,577 rows and 19 columns
-*/
 
 -- View all the attributes and the records
 SELECT * FROM Nashville_Housing_Data;
